@@ -1,0 +1,37 @@
+button{
+    width: 150px;
+    height: 50px;
+    background-color: gray;
+    border: none;
+    text-transform: uppercase;
+    color: whitesmoke;
+    font-weight: 900;
+    font-family:'Times New Roman', Times, serif;
+    border-radius: 30px;
+}
+button{
+    margin-bottom: 200px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+table{
+    margin-bottom: 200px;
+}
+th{
+    width: 100px;
+    background-color: #eff0c7;
+}
+td,button,img,h1{
+    cursor: pointer;
+}
+.double{
+    height: 300px;
+    width: 100%;
+    background-color: blue;
+    margin-bottom: 200px;
+}
+li{
+    list-style-type: none;
+}
